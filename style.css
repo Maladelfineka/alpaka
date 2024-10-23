@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+.alpaka{
+    position: relative;
+}
+img {
+    position: absolute;
+}

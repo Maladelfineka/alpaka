@@ -1,0 +1,16 @@
+hair; default, curls, short, bang, elegant, quiff
+ears; default, tillt backwards, tillt froward 
+eyes; default, angry, naughty, panda, smart, star
+mouth; default, astonished, eating, laugh, tongue
+neck; default, bend backward, bend forward, thick
+leg; default, bubble tea, cookie, game onsole, tilt backward, tilt forward
+accessories; None, flower, earing, headphone, glass
+
+
+    hair: "default", "curls", "short", "bang", "elegant", "quiff",
+    ears: "default", "tilt backwards", "tilt forward",
+    eyes: "default", "angry", "naughty", "panda", "smart", "star",
+    mouth: "default", "astonished", "eating", "laugh", "tongue",
+    neck: "default", "bend backward", "bend forward", "thick",
+    leg: "default", "bubble tea", "cookie", "game console", "tilt backward", "tilt forward",
+    accessories: "None", "flower", "earring", "headphone", "glass",
